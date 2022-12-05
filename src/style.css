@@ -1,1 +1,8 @@
 /* styles go here */
+.form-field + .form-field {
+  margin-top: 10px;
+}
+
+.form-block {
+  margin-bottom: 20px;
+}
